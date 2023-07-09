@@ -7,10 +7,9 @@ JavaScript. Eager to contribute to a dynamic development team and gain hands-on 
 modern web applications. Committed to continuous learning and exploring new technology.
 
 
-Skills: HTML | CSS | JavaScript | React js | Tailwind | Bootstrap | Node js | Express js | Firebase | Mongo DB
+## Skills:
+HTML | CSS | JavaScript | React js | Tailwind | Bootstrap | Node js | Express js | Firebase | Mongo DB
 
-- 🔭 I’m currently working on Next js project 
-- 🌱 I’m currently learning Redux  
 
 
 

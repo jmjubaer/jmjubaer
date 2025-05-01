@@ -7,10 +7,6 @@ JavaScript, React, Next.js. Eager to contribute to a dynamic development team an
 modern web applications. Committed to continuous learning and exploring new technology.
 
 
-## Skills:
-HTML | CSS | JavaScript | React js | Tailwind | Bootstrap | Node js | Express js | Firebase | Mongo DB
-
-
 # 🚀 Tech Stack
 
 ## Frontend
@@ -41,6 +37,10 @@ HTML | CSS | JavaScript | React js | Tailwind | Bootstrap | Node js | Express js
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+## 📌 About Me
+
+Hi, I'm **Md Jubaer**, a passionate and professional **MERN Stack Developer**. I specialize in building full-stack web applications that are fast, scalable, and user-friendly. I have experience to work with two companies. I am expart at **MERN** technology such as React, Next Js, Express, Mongoose and MongoDB. Also other technology like Typescript, Redux, Zusthan, Tailwind, Bootstrap, GraphQL. Now I learn SQL technology like PostgreSQL.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jmjubaer&theme=dark&hide_border=false&include_all_commits=false&count_private=false)

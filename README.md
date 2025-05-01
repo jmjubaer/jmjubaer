@@ -45,3 +45,19 @@ HTML | CSS | JavaScript | React js | Tailwind | Bootstrap | Node js | Express js
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jmjubaer&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=jmjubaer&theme=dark&hide_border=false) 
+
+# 📫 Let's Connect
+<a href="https://www.linkedin.com/in/jmjubaer" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:jmjubaer3927@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/mdjubaer-dev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://github.com/jmjubaer" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+
+  

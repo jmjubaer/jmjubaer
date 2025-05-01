@@ -47,17 +47,20 @@ HTML | CSS | JavaScript | React js | Tailwind | Bootstrap | Node js | Express js
 ![](https://nirzak-streak-stats.vercel.app/?user=jmjubaer&theme=dark&hide_border=false) 
 
 # 📫 Let's Connect
-<a href="https://www.linkedin.com/in/jmjubaer" target="_blank">
+  <a href="https://www.linkedin.com/in/jmjubaer" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:jmjubaer3927@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/mdjubaer-dev" target="_blank">
+  <a href="https://github.com/jmjubaer" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://github.com/jmjubaer" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://web.facebook.com/jm.jubaerm" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://discord.gg/VWZwA3hA" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 
   
